@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2? Family= Arima:wght@300 & display=swap');
+ 
+body {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-color: #222;
+    margin: 0;
+    background-image: url(img/photo-1691434865454-f1998e81869b.jfif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'Arima', cursive;
+}
+.cord{
+    background-color: white;
+    opacity: 0.5;
+    padding: 30px;
+    border-radius: 25px;
+    width: 50%;
+    max-width: 370px;
+}
+
+.inputG {
+    height: 20px;
+    border-radius: 20px;
+}
+.btn {
+    width: 70px;
+    height: 25px;
+    border-radius: 25px;
+    border: none;
+}
+
+h2.temperature {
+    margin: 0;
+    margin-bottom: 0.4em;
+
+}
+
+.search {
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+.description {
+    text-transform: capitalize;
+    margin-left: 10px;
+}
+
+h1.temperature {
+    margin: 0;
+    margin-bottom: 0.4em;
+  }
+  
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+  
+  .description {
+    text-transform: capitalize;
+    margin-left: 8px;
+  }
+  
